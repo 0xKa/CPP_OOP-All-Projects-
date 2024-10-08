@@ -1,0 +1,12 @@
+﻿  Project1_Utility_Library.cpp
+F:\ProgrammingAdvices\Course 11 -  OOP as it Should Be (Applications)\Project1_Utility_Library\Project1_Utility_Library\Project1_Utility_Library.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\ProgrammingAdvices\Course 11 -  OOP as it Should Be (Applications)\Project1_Utility_Library\Project1_Utility_Library\clsUtil.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\ProgrammingAdvices\Course 11 -  OOP as it Should Be (Applications)\Project1_Utility_Library\Project1_Utility_Library\clsDate.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\ProgrammingAdvices\Course 11 -  OOP as it Should Be (Applications)\Project1_Utility_Library\Project1_Utility_Library\clsString.h(38,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+F:\ProgrammingAdvices\Course 11 -  OOP as it Should Be (Applications)\Project1_Utility_Library\Project1_Utility_Library\clsString.h(42,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+F:\ProgrammingAdvices\Course 11 -  OOP as it Should Be (Applications)\Project1_Utility_Library\Project1_Utility_Library\clsString.h(150,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+F:\ProgrammingAdvices\Course 11 -  OOP as it Should Be (Applications)\Project1_Utility_Library\Project1_Utility_Library\clsString.h(277,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+F:\ProgrammingAdvices\Course 11 -  OOP as it Should Be (Applications)\Project1_Utility_Library\Project1_Utility_Library\clsString.h(312,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+F:\ProgrammingAdvices\Course 11 -  OOP as it Should Be (Applications)\Project1_Utility_Library\Project1_Utility_Library\clsString.h(358,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+F:\ProgrammingAdvices\Course 11 -  OOP as it Should Be (Applications)\Project1_Utility_Library\Project1_Utility_Library\Project1_Utility_Library.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Project1_Utility_Library.vcxproj -> F:\ProgrammingAdvices\Course 11 -  OOP as it Should Be (Applications)\Project1_Utility_Library\x64\Debug\Project1_Utility_Library.exe
