@@ -1,0 +1,10 @@
+﻿  Project3_Date_Library.cpp
+F:\ProgrammingAdvices\Course 10 -  OOP as it Should Be (Concepts)\Project3_Date_Library\Project3_Date_Library\Project3_Date_Library.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\ProgrammingAdvices\Course 10 -  OOP as it Should Be (Concepts)\Project3_Date_Library\Project3_Date_Library\clsDate.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\ProgrammingAdvices\Course 10 -  OOP as it Should Be (Concepts)\Project3_Date_Library\Project3_Date_Library\clsString.h(38,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+F:\ProgrammingAdvices\Course 10 -  OOP as it Should Be (Concepts)\Project3_Date_Library\Project3_Date_Library\clsString.h(42,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+F:\ProgrammingAdvices\Course 10 -  OOP as it Should Be (Concepts)\Project3_Date_Library\Project3_Date_Library\clsString.h(150,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+F:\ProgrammingAdvices\Course 10 -  OOP as it Should Be (Concepts)\Project3_Date_Library\Project3_Date_Library\clsString.h(277,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+F:\ProgrammingAdvices\Course 10 -  OOP as it Should Be (Concepts)\Project3_Date_Library\Project3_Date_Library\clsString.h(312,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+F:\ProgrammingAdvices\Course 10 -  OOP as it Should Be (Concepts)\Project3_Date_Library\Project3_Date_Library\clsString.h(358,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  Project3_Date_Library.vcxproj -> F:\ProgrammingAdvices\Course 10 -  OOP as it Should Be (Concepts)\Project3_Date_Library\x64\Debug\Project3_Date_Library.exe
