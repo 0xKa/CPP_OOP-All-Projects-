@@ -1,0 +1,9 @@
+﻿  Project4_Currency_Exchange.cpp
+F:\ProgrammingAdvices\Libraries\clsString.h(38,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+F:\ProgrammingAdvices\Libraries\clsString.h(42,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+F:\ProgrammingAdvices\Libraries\clsString.h(150,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+F:\ProgrammingAdvices\Libraries\clsString.h(277,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+F:\ProgrammingAdvices\Libraries\clsString.h(312,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+F:\ProgrammingAdvices\Libraries\clsString.h(358,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+F:\ProgrammingAdvices\Course 11 -  OOP as it Should Be (Applications)\Project4_Currency_Exchange\Project4_Currency_Exchange\clsCurrency.h(31,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Project4_Currency_Exchange.vcxproj -> F:\ProgrammingAdvices\Course 11 -  OOP as it Should Be (Applications)\Project4_Currency_Exchange\x64\Debug\Project4_Currency_Exchange.exe
